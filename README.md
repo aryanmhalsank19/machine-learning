@@ -1,2 +1,2 @@
 # machine-learning
-https://github.com/aryanmhalsank19/machine-learning.git
+This is SEPM practical no. 3 of roll id. 632
